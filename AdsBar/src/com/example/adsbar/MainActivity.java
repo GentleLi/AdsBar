@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
 	List<ImageView> points;
 	
 	private int[] imgIds=new int[]{R.drawable.a,R.drawable.b,R.drawable.c,R.drawable.d,R.drawable.e,R.drawable.f,R.drawable.g,R.drawable.h,R.drawable.i,R.drawable.j,R.drawable.k,R.drawable.l,R.drawable.m};
-	private String[] descs=new String[]{"the day you went away!","昨天看了大旗门","铁中棠","水灵光","一个很好看的故事","一段感人的爱情","发人深省","催人泪下","铁血大旗门","很好看~","特喜欢~~","结局一定是美好的~","希望有完美结局的版本~"};
+	private String[] descs=new String[]{"the day you went away!","昨天看了大旗门","铁中棠","水灵光","一个很好看的故事","坚韧机智世无双","铁血柔情未彷徨","文武传遍后人心","固将一世英名扬","很好看~","特喜欢~~","为什么央视版给了我们一个悲惨的结局","希望有完美结局的版本~"};
 	private MyPagerAdapter adapter;
 	private boolean isRunning;
 	
